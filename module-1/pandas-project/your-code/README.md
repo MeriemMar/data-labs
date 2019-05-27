@@ -2,7 +2,7 @@
 
 ## Data cleaning processes (Steps)
 
-Start with importing the data set (CSV file)
+Start with importing the data set (CSV file).
  
 Create a copy of the original dataframe to modify it safely
 
